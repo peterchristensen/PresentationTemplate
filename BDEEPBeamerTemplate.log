@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.2.16)  12 APR 2016 12:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.2.16)  13 APR 2016 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1899,6 +1899,9 @@ LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
 
 (./BDEEPBeamerTemplate.aux
 
+LaTeX Warning: Label `eq1' multiply defined.
+
+
 LaTeX Warning: Label `eq2' multiply defined.
 
 )
@@ -2099,180 +2102,235 @@ Package pdftex.def Info: UILOGO.png used on input line 72.
 
 {c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./UILOGO.png>]
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 98.
-LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 98.
-LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 4.0pt on input line 98.
- [2
-
-]
-(./BDEEPBeamerTemplate.toc) [3
-
-] [4
-
-]
-<Importer.png, id=65, 482.30188pt x 299.61937pt>
-File: Importer.png Graphic file (type png)
- <use Importer.png>
-Package pdftex.def Info: Importer.png used on input line 129.
-(pdftex.def)             Requested size: 199.73653pt x 124.07912pt.
- [5
-
- <./Importer.png>]
-LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 153.
+(Font)              scaled to size 10.0pt on input line 111.
 LaTeX Font Info:    Try loading font information for OT1+zpltlf on input line 1
-53.
- (c:/texlive/2015/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
+11.
+
+(c:/texlive/2015/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
 File: ot1zpltlf.fd 2015/01/17 v1.0 font definition file for OT1/zpl/tlf
 )
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 153.
+(Font)              scaled to size 10.0pt on input line 111.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 153.
+(Font)              scaled to size 7.3pt on input line 111.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 153.
-LaTeX Font Info:    Try loading font information for U+msa on input line 153.
+(Font)              scaled to size 5.5pt on input line 111.
+LaTeX Font Info:    Try loading font information for U+msa on input line 111.
 
 (c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 153.
+LaTeX Font Info:    Try loading font information for U+msb on input line 111.
 
 (c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 153.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 111.
 
 (c:/texlive/2015/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 153.
+(Font)              size <5> substituted on input line 111.
 
-LaTeX Font Info:    Try loading font information for U+npxmia on input line 153
+LaTeX Font Info:    Try loading font information for U+npxmia on input line 111
 .
 (c:/texlive/2015/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
-LaTeX Font Info:    Try loading font information for U+npxsym on input line 153
+LaTeX Font Info:    Try loading font information for U+npxsym on input line 111
 .
 
 (c:/texlive/2015/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
-LaTeX Font Info:    Try loading font information for U+npxsyc on input line 153
+LaTeX Font Info:    Try loading font information for U+npxsyc on input line 111
 .
 
 (c:/texlive/2015/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 153.
+(Font)              scaled to size 10.95pt on input line 111.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 153.
+(Font)              scaled to size 8.0pt on input line 111.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 153.
+(Font)              scaled to size 6.1pt on input line 111.
 
-<Brown.png, id=72, 193.22188pt x 296.60812pt>
-File: Brown.png Graphic file (type png)
- <use Brown.png>
-Package pdftex.def Info: Brown.png used on input line 153.
-(pdftex.def)             Requested size: 82.96854pt x 127.36249pt.
- [6
+<USCongestion.jpg, id=40, 490.13188pt x 339.07127pt>
+File: USCongestion.jpg Graphic file (type jpg)
+ <use USCongestion.jpg>
+Package pdftex.def Info: USCongestion.jpg used on input line 111.
+(pdftex.def)             Requested size: 165.632pt x 114.58423pt.
 
- <./Brown.png>] [7
+Overfull \hbox (15.05829pt too wide) in paragraph at lines 111--111
+ [] 
+ []
 
-] [8
+LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 111.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 111.
+LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
+(Font)              scaled to size 4.0pt on input line 111.
+[2
 
-] <Landsat8.jpg, id=90, 2409.0pt x 2055.68pt>
-File: Landsat8.jpg Graphic file (type jpg)
- <use Landsat8.jpg>
-Package pdftex.def Info: Landsat8.jpg used on input line 211.
-(pdftex.def)             Requested size: 73.74919pt x 62.92242pt.
-Package epstopdf Info: Source file: <CompareHighestResi.eps>
-(epstopdf)                    date: 2014-05-14 12:15:55
-(epstopdf)                    size: 1447714 bytes
-(epstopdf)             Output file: <CompareHighestResi-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-04-05 20:58:12
-(epstopdf)                    size: 1328008 bytes
-(epstopdf)             Command: <repstopdf --outfile=CompareHighestResi-eps-con
-verted-to.pdf CompareHighestResi.eps>
-(epstopdf)             \includegraphics on input line 211.
-Package epstopdf Info: Output file is already uptodate.
+ <./USCongestion.jpg>] <traffic.png, id=49, 575.8657pt x 227.1343pt>
+File: traffic.png Graphic file (type png)
 
-<CompareHighestResi-eps-converted-to.pdf, id=91, 614.295pt x 794.97pt>
-File: CompareHighestResi-eps-converted-to.pdf Graphic file (type pdf)
+<use traffic.png>
+Package pdftex.def Info: traffic.png used on input line 132.
+(pdftex.def)             Requested size: 184.3758pt x 72.7191pt.
+ [3
 
-<use CompareHighestResi-eps-converted-to.pdf>
-Package pdftex.def Info: CompareHighestResi-eps-converted-to.pdf used on input 
-line 211.
-(pdftex.def)             Requested size: 147.50119pt x 190.8816pt.
+ <./traffic.png>]
+File: traffic.png Graphic file (type png)
+ <use traffic.png>
+Package pdftex.def Info: traffic.png used on input line 152.
+(pdftex.def)             Requested size: 184.3758pt x 72.7191pt.
+ [4
 
-Overfull \hbox (4.55623pt too wide) detected at line 211
-[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+]
+(./BDEEPBeamerTemplate.toc) [5
+
+] [6
+
+]
+<P_QGraph.png, id=79, 479.10461pt x 287.56384pt>
+File: P_QGraph.png Graphic file (type png)
+ <use P_QGraph.png>
+Package pdftex.def Info: P_QGraph.png used on input line 185.
+(pdftex.def)             Requested size: 199.73653pt x 119.88524pt.
+
+Overfull \vbox (11.2544pt too high) detected at line 185
+ []
+
+[7
+
+ <./P_QGraph.png>]
+File: P_QGraph.png Graphic file (type png)
+ <use P_QGraph.png>
+Package pdftex.def Info: P_QGraph.png used on input line 216.
+(pdftex.def)             Requested size: 153.64493pt x 92.21976pt.
+ [8
+
+]
+<Delhi.png, id=92, 499.8675pt x 542.77782pt>
+File: Delhi.png Graphic file (type png)
+ <use Delhi.png>
+Package pdftex.def Info: Delhi.png used on input line 239.
+(pdftex.def)             Requested size: 145.19388pt x 157.65828pt.
+
+Overfull \hbox (6.91438pt too wide) in paragraph at lines 239--239
+ [] 
  []
 
 [9
 
- <./Landsat8.jpg> <./CompareHighestResi-eps-converted-to.pdf>] [10
+ <./Delhi.png>] <Davis_paper.png, id=99, 454.19687pt x 384.93813pt>
+File: Davis_paper.png Graphic file (type png)
+
+<use Davis_paper.png>
+Package pdftex.def Info: Davis_paper.png used on input line 260.
+(pdftex.def)             Requested size: 195.4354pt x 165.63176pt.
+
+Overfull \hbox (32.57214pt too wide) in paragraph at lines 260--260
+ [] 
+ []
+
+<Davis_graph.png, id=100, 353.6412pt x 418.6842pt>
+File: Davis_graph.png Graphic file (type png)
+ <use Davis_graph.png>
+Package pdftex.def Info: Davis_graph.png used on input line 260.
+(pdftex.def)             Requested size: 145.19388pt x 171.9044pt.
+
+Overfull \hbox (6.91438pt too wide) in paragraph at lines 260--260
+ [] 
+ []
+
+[10
+
+ <./Davis_paper.png> <./Davis_graph.png>] [11
+
+] [12
+
+] [13
+
+]
+<survey.jpg, id=129, 250.9375pt x 251.94125pt>
+File: survey.jpg Graphic file (type jpg)
+ <use survey.jpg>
+Package pdftex.def Info: survey.jpg used on input line 336.
+(pdftex.def)             Requested size: 92.18788pt x 92.55557pt.
+
+<SaoPaoloGoogle.png, id=130, 520.94624pt x 430.60875pt>
+File: SaoPaoloGoogle.png Graphic file (type png)
+
+<use SaoPaoloGoogle.png>
+Package pdftex.def Info: SaoPaoloGoogle.png used on input line 336.
+(pdftex.def)             Requested size: 107.55098pt x 88.89955pt.
+
+Overfull \vbox (1.03287pt too high) detected at line 336
+ []
+
+[14
+
+ <./survey.jpg> <./SaoPaoloGoogle.png>]pdfTeX warning (ext4): destination with 
+the same identifier (name{eq1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.350 \end{frame}
+                  [15
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{eq2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.241 \end{frame}
+l.365 \end{frame}
                  
 Package epstopdf Info: Source file: <CompareHiRes_Guangzhou.eps>
-(epstopdf)                    date: 2014-05-14 12:11:19
+(epstopdf)                    date: 2016-04-12 12:58:46
 (epstopdf)                    size: 2715458 bytes
 (epstopdf)             Output file: <CompareHiRes_Guangzhou-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-04-05 20:52:57
+(epstopdf)                    date: 2016-04-12 12:58:46
 (epstopdf)                    size: 2503001 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompareHiRes_Guangzhou-eps
 -converted-to.pdf CompareHiRes_Guangzhou.eps>
-(epstopdf)             \includegraphics on input line 241.
+(epstopdf)             \includegraphics on input line 365.
 Package epstopdf Info: Output file is already uptodate.
 
-<CompareHiRes_Guangzhou-eps-converted-to.pdf, id=137, 614.295pt x 794.97pt>
+<CompareHiRes_Guangzhou-eps-converted-to.pdf, id=144, 614.295pt x 794.97pt>
 File: CompareHiRes_Guangzhou-eps-converted-to.pdf Graphic file (type pdf)
 
 <use CompareHiRes_Guangzhou-eps-converted-to.pdf>
 Package pdftex.def Info: CompareHiRes_Guangzhou-eps-converted-to.pdf used on in
-put line 241.
+put line 365.
 (pdftex.def)             Requested size: 184.3758pt x 118.09564pt.
+ [16
 
-Overfull \vbox (6.20686pt too high) detected at line 241
- []
+ <./CompareHiRes_Guangzhou-eps-converted-to.pdf>] [17
 
-[11
+] [18
 
- <./CompareHiRes_Guangzhou-eps-converted-to.pdf>] [12
+] [19
 
-] [13
+] [20
 
-] [14
-
-] [15
+] [21
 
 ]
-[16
+LaTeX Font Info:    Try loading font information for T1+zi4 on input line 450.
 
-] [17
-
-]
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 342.
- (c:/texlive/2015/texmf-dist/tex/latex/inconsolata/t1zi4.fd
+(c:/texlive/2015/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2014/06/22 T1/zi4 (Inconsolata)
 )
-Overfull \hbox (0.38615pt too wide) in paragraph at lines 342--342
+Overfull \hbox (0.38615pt too wide) in paragraph at lines 450--450
 [][]  
  []
 
-[18
+[22
 
 ]
 \tf@nav=\write6
@@ -2284,13 +2342,13 @@ Overfull \hbox (0.38615pt too wide) in paragraph at lines 342--342
 \tf@snm=\write8
 \openout8 = `BDEEPBeamerTemplate.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 452.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 452.
  (./BDEEPBeamerTemplate.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 452.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 452.
 Package rerunfilecheck Info: File `BDEEPBeamerTemplate.out' has not changed.
-(rerunfilecheck)             Checksum: 05A3312E89518639917F7EE188C5224B;253.
+(rerunfilecheck)             Checksum: 6AD3254B1E1DC50DE332BD44E7BE2109;208.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2299,14 +2357,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 452.
  ) 
 Here is how much of TeX's memory you used:
- 41838 strings out of 493042
- 929634 string characters out of 6138227
- 1069589 words of memory out of 5000000
- 44450 multiletter control sequences out of 15000+600000
- 96030 words of font info for 139 fonts, out of 8000000 for 9000
+ 41873 strings out of 493042
+ 930033 string characters out of 6138227
+ 1069779 words of memory out of 5000000
+ 44474 multiletter control sequences out of 15000+600000
+ 95773 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,11n,134p,10434b,863s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{c:/texli
@@ -2324,10 +2382,10 @@ exlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb><c:/texlive/2015/te
 xmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb><c:/texlive/2015/texmf-dist/fon
 ts/type1/public/newpx/zplr.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/n
 ewpx/zplx-regular.pfb>
-Output written on BDEEPBeamerTemplate.pdf (18 pages, 5815796 bytes).
+Output written on BDEEPBeamerTemplate.pdf (22 pages, 4086632 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 266 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 

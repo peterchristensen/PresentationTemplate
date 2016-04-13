@@ -54,10 +54,10 @@
 %
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-\title{Title of Presentation}
-\subtitle{Subtitle of Presentation}
-\date{today's date}
-\author{your name}
+\title{Big Data and Big Challenges:}
+\subtitle{Addressing Urban Transportation and Congestion in Developing Countries}
+\date{4/13/2016}
+\author{Peter Christensen}
 \institute{University of Illinois}
 
 
@@ -87,14 +87,68 @@
 %	FRAME: Introduction
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-\begin{frame}[c]{Introduction}
 
-\begin{enumerate}
-\item{First Item}   
-\item{Second Item}  
-\item{Third Item}
-\end{enumerate}
+\begin{frame}[c]{How Big is the Congestion Problem?}
+	We know that this is an economically important problem in the United States
+	\begin{columns}
+		\begin{column}{.5\linewidth}
+			\begin{enumerate}   
+				\item{Primary Impacts on the Economy}
+				\begin{itemize}  
+					\item{Cost of Time}
+					\item{Cost of Emissions}
+					\item{Cost of Accidents}
+				\end{itemize}  
+			\end{enumerate}
+		\end{column}
+		\begin{column}{.49\linewidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=1.1\linewidth]{USCongestion.jpg}
+			\end{figure}
+		\end{column}
+	\end{columns}
+\end{frame}
 
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%	FRAME: Introduction
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+\begin{frame}[c]{The Congestion Problem in Developing Countries}
+	The costs are much higher. How High?
+	\begin{enumerate}   
+		\item{Rough estimates for a few cities}
+		\begin{itemize}  
+			\item{Beijing -- 2009 study estimated the economic cost of congestion for a Beijing resident ay 335.6 CNY per month (\$50 US)}
+			\item{Bijing's population is ~20 Million, so the total cost approaches \$12 Billion}
+			\item{Cairo -- one study estimates \$8 Billion}
+		\end{itemize}  
+	\end{enumerate}
+	\begin{figure}
+		\centering
+		\includegraphics[width=.6\linewidth]{traffic.png}
+	\end{figure}
+\end{frame}
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%	FRAME: Introduction
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+\begin{frame}[c]{Why is it Important to Estimate these Costs?}
+	This is not simply an economic exercise.  These figures drive real policy decisions amidst competing priorities
+	\begin{enumerate}   
+		\item{Investments in new transportation infrastructure}
+		\item{Investments in public transportation services}
+		\item{Air pollution abatement}
+		\item{International lending and aid projects}
+		\item{Traffic regulations, restrictions and subsidies}
+	\end{enumerate}
+	\begin{figure}
+		\centering
+		\includegraphics[width=.6\linewidth]{traffic.png}
+	\end{figure}
 \end{frame}
 
 
@@ -112,64 +166,114 @@
 %
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-\section{Background}
+\section{Economics of Congestion: Background}
 
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 %	FRAME: Slide with Graphic/Text
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-\begin{frame}[c]{Slide with Graphic/Text}
+\begin{frame}[c]{Classic Externalities}
+Social costs of traffic congestion are a classic externality
+\begin{enumerate}  
+	\item{An individual's use of transport infrastructure impose social costs on other individuals}
+	\item{We consume up to Q1 when it is optimal to consume to Q2}  
+	\item{Regulations are used to correct the market failure}
+\end{enumerate}
 \begin{figure}
 	\centering
-	\includegraphics[width=0.65\linewidth]{Importer.png}
-\end{figure}
-\begin{enumerate}  
-	\item{point #1}
-	\item{point #2}  
-\end{enumerate}  
+	\includegraphics[width=0.65\linewidth]{P_QGraph.png}
+\end{figure}  
+\end{frame}
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%	FRAME: Slide with Graphic/Text
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+\begin{frame}[c]{Types of Regulation}
+	Transport regulations change behavior through effects on:
+	\begin{columns}
+		\begin{column}{.5\linewidth}
+	\begin{enumerate}  
+		\item{Prices (P1 -> P2)}
+		\begin{itemize} 
+			\item{congestion pricing} 
+			\item{subsidies to mass transit}
+			\item{gasoline tax} 
+		\end{itemize}
+		\item{Quantities (Q1 -> Q2)}
+		\begin{itemize} 
+			\item{driving restrictions} 
+			\item{license plate lotteries}
+		\end{itemize}
+	\end{enumerate}
+		\end{column}
+		
+		\begin{column}{.5\linewidth}
+	\begin{figure}
+		\centering
+		\includegraphics[width=1.0\linewidth]{P_QGraph.png}
+	\end{figure}  
+		\end{column}
+	\end{columns}
 \end{frame}
 
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 %	FRAME: Slide with Graphic Column and Text Column
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-\begin{frame}[c]{Slide with Graphic Column and Text Column}
+\begin{frame}[c]{Blind Experiments with Regulations}
 	\begin{columns}
-		\begin{column}{.68\linewidth}
+		\begin{column}{.53\linewidth}
 			\begin{enumerate}   
-				\item{First Item}
-				\begin{itemize}  
-					\item{first subitem}
-					\item{second subitem}
-					\item{third subitem}
+				\item{Driving Restrictions}
+				\begin{itemize}
+					\item{Most recent experiment: New Delhi}  
+					\item{Existing in: Mexico City, Sao Paulo, Beijing, Shanghai}
 				\end{itemize}  
 			\end{enumerate}
 		\end{column}
-		\begin{column}{.3\linewidth}
+		\begin{column}{.45\linewidth}
 			\begin{figure}
 				\centering
-				\includegraphics[width=0.9\linewidth]{Brown.png}
+				\includegraphics[width=1.05\linewidth]{Delhi.png}
 			\end{figure}
 		\end{column}
 	\end{columns}
 \end{frame}
 
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%	FRAME: Slide with Graphic Column and Text Column
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+\begin{frame}[c]{Limited Evidence from Mexico City}
+	\begin{columns}
+		\begin{column}{.53\linewidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=1.2\linewidth]{Davis_paper.png}
+			\end{figure} 
+
+		\end{column}
+		\begin{column}{.45\linewidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=1.05\linewidth]{Davis_graph.png}
+			\end{figure}
+		\end{column}
+	\end{columns}
+\end{frame}
 
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 %	FRAME: Slide with Items and Subitems
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-\begin{frame}[c]{Slide with Items and Subitems}
-	Heading	
+\begin{frame}[c]{Research Questions}
+	Primary Questions	
 	\begin{enumerate}   
-		\item{First Item}  
+		\item{What is the cost of traffic congestion in developing country cities}  
 		\begin{itemize}
-			\item{first subitem}
+			\item{Total cost to society}
+			\item{Marginal cost -- how much does society benefit from 1 minute less spend in traffic?}
 		\end{itemize}
-		\item{Second Item}
+		\item{What are the impacts of regulatory changes on social welfare?}
 		\begin{itemize}
-			\item{second subitem}
-		\end{itemize}
-		\item{Third Item}
-		\begin{itemize}
-			\item{third subitem}
+			\item{How do costs respond to driving restrictions?}
+			\item{How do costs respond to mass transit subsidies?}
 		\end{itemize}
 	\end{enumerate}	
 \end{frame}
@@ -182,38 +286,62 @@
 
 \section{Data and Method}
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-%	FRAME: Slide with Itemized Text and Graphics Columns
+%	FRAME: Transit Demand
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-\begin{frame}[c]{Slide with Itemized Text and Graphics Columns}
-	\begin{columns}
-		\begin{column}{.6\linewidth}
-			\begin{figure}
-				\centering
-				\includegraphics[width=0.4\linewidth]{Landsat8.jpg}
-			\end{figure}
+\begin{frame}[c]{Transit Demand}
+Demand for transit is estimated using a model of consumer utility:\\
+	\begin{equation}{\label{eq1}}
+	U=X-\alpha(T(V),C,D)  
+	\end{equation}
+	X = consumption of an outside composite good\\
+	$\alpha$ = cost of a trip, which depends on the distance (D) of the trip, its monetary cost (C), its duration (T), and the individual's value of time (V)\\
+	
 	\begin{itemize}
-		\item{First Item}\\
-		\item{Second Item}\\
-		\item{Third Item}\\
+		\item{we assume that consumers are optimizing}
+		\item{consumers can substitute across modes, times, or forgo trips altogether}
 	\end{itemize}
-		\end{column}
-		\begin{column}{.6\linewidth}
-			\begin{figure}
-				\centering
-				\includegraphics[width=.8\linewidth]{CompareHighestResi.eps}
-			\end{figure}
-		\end{column}
-	\end{columns}
+
 \end{frame}
 
 
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%	FRAME: Slide with Itemized Text and Graphics Columns
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+\begin{frame}[c]{Data Sources}
+	\begin{columns}
+		\begin{column}{.5\linewidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.6\linewidth]{survey.jpg}
+			\end{figure}
+		\end{column}
+		\begin{column}{.5\linewidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.7\linewidth]{SaoPaoloGoogle.png}
+			\end{figure}
+		\end{column}
+	\end{columns}
+	\begin{enumerate}
+		\item{City Level Trip Surveys: representative sample of travel for a week of travel in a city}\\
+		\begin{itemize}
+			\item{origin/destination, day/time, mode, monetary cost of trip}
+			\item{residence, car ownership, income, purpose of trip}
+		\end{itemize}
+		\item{Google Traffic API: simulate entire set of trips each week}\\
+		\begin{itemize}
+			\item{duration of trip in traffic, duration with no congestion (2am), duration using alternative times/modes}
+		\end{itemize}
+	\end{enumerate}
+\end{frame}
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 %	FRAME: Slide with Equations and Text
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-\begin{frame}{Slide with Equations and Text}
-	Equation 1
+\begin{frame}{Weekly Estimates of Impact of Congestion on Welfare}
+	Structural estimates of the value of time for and individual taking each trip
 	\begin{equation}{\label{eq1}}
-	V_{i,t}^{u}-(\sum\limits_{T=0}^{\infty}V_{i,t+T}^{a})\delta^{T}-C_{t}^{a}>0   
+	CS = \sum\limits_{N=1}^{50,000}V_{i,t}   
 	\end{equation}
 	Text pertaining to euqation 1 with imbedded notation: ($C^{\tau}$).
 	\begin{equation}{\label{eq2}}
@@ -226,7 +354,7 @@
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 \begin{frame}{Slide with Text, Equation, and Figure/Graphic}
-	Equation #1:
+	Equation 1:
 	\begin{equation}{\label{eq2}}
 		\tau_{ATT(\frac{da}{du})}=[\frac{dL^{a}}{dL^{u}}_{it}(1)-\frac{dL^{a}}{dL^{u}}_{it}(0)]
 	\end{equation}
